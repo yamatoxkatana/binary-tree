@@ -11,8 +11,9 @@ To compile and run the program, follow these steps:
    ```
 
 **Compile the Program**:
-bash
-```
+
+
+```bash
 g++ -o binary_tree BinaryTree.cpp
 ```
 
