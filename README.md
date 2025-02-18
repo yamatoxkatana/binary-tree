@@ -1,5 +1,7 @@
 # Binary Tree
 
+![Green Tree](tree.webp)
+
 ## Compilation and Execution
 
 To compile and run the program, follow these steps:
