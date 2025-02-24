@@ -8,7 +8,7 @@ To compile and run the program, follow these steps:
 
 **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/BinaryTree.git
+   git clone https://github.com/yamatoxkatana/BinaryTree.git
    cd BinaryTree
    ```
 
